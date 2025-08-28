@@ -15,7 +15,7 @@
 <a href="https://github.com/RayBen445/CS-Assistant/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/RayBen445/CS-Assistant?color=blue&style=flat-square"></a>
 <a href="https://github.com/RayBen445/CS-Assistant/network/members"><img title="Forks" src="https://img.shields.io/github/forks/RayBen445/CS-Assistant?color=yellow&style=flat-square"></a>
 <a href="https://github.com/RayBen445/CS-Assistant/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/RayBen445/CS-Assistant?label=Watchers&color=red&style=flat-square"></a>
-<a href="https://github.com/DavidCyrilTech/Anita-V5/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained-Yes-red.svg"></a>&nbsp;&nbsp;
+<a href="https://github.com/RayBen445/CS-Assistant/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained-Yes-red.svg"></a>&nbsp;&nbsp;
 </p>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 #
