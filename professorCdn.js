@@ -3,7 +3,7 @@ const FormData = require('form-data');
 const fs = require('fs');
 const path = require('path');
 
-async function davidcyCdn(buffer, fileType, fileName = 'upload') {
+async function professorCdn(buffer, fileType, fileName = 'upload') {
     try {
         let tempFolder = path.join(__dirname, 'temp');
         if (!fs.existsSync(tempFolder)) fs.mkdirSync(tempFolder);
@@ -14,7 +14,7 @@ async function davidcyCdn(buffer, fileType, fileName = 'upload') {
         let formData = new FormData();
         formData.append('file', fs.createReadStream(filePath));
 
-        let response = await axios.post('http://cdn.david-cyril.net.ng/upload', formData, {
+        let response = await axios.post('http://cdn.professor.net.ng/upload', formData, {
             headers: { ...formData.getHeaders() }
         });
 
@@ -35,4 +35,4 @@ async function davidcyCdn(buffer, fileType, fileName = 'upload') {
     }
 }
 
-module.exports = { davidcyCdn };
+module.exports = { professorCdn };

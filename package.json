@@ -1,7 +1,7 @@
 {
-  "name": "Anita_V5",
+  "name": "CS_Assistant",
   "version": "5.0.0",
-  "description": "Queen Anita V5 Is a Simple WA Bot Made by David Cyril using  Baileys-X",
+  "description": "CS Assistant Is a Simple WA Bot Made by Professor using  Baileys-X",
   "main": "index.js",
   "type": "commonjs",
   "scripts": {
@@ -11,7 +11,7 @@
     "whiskeysockets",
     "multi-device"
   ],
-  "author": "David Cyril",
+  "author": "Professor",
   "license": "MIT",
   "dependencies": {
     "@adiwajshing/baileys": "npm:@whiskeysockets/baileys@^6.7.9",
