@@ -3,7 +3,7 @@ const FormData = require('form-data');
 const fs = require('fs');
 const path = require('path');
 
-async function davidcyCdn(buffer, fileType, fileName = 'upload') {
+async function professorCdn(buffer, fileType, fileName = 'upload') {
     try {
         let tempFolder = path.join(__dirname, 'temp');
         if (!fs.existsSync(tempFolder)) fs.mkdirSync(tempFolder);
@@ -35,4 +35,4 @@ async function davidcyCdn(buffer, fileType, fileName = 'upload') {
     }
 }
 
-module.exports = { davidcyCdn };
+module.exports = { professorCdn };
