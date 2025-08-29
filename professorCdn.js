@@ -14,7 +14,7 @@ async function professorCdn(buffer, fileType, fileName = 'upload') {
         let formData = new FormData();
         formData.append('file', fs.createReadStream(filePath));
 
-        let response = await axios.post('http://cdn.professor.net.ng/upload', formData, {
+        let response = await axios.post('http://cdn.david-cyril.net.ng/upload', formData, {
             headers: { ...formData.getHeaders() }
         });
 
