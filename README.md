@@ -34,8 +34,8 @@
 3. **Deploy on [TALKDROVE](https://host.talkdrove.com)**
 3. **Deploy on [BOT HOSTING PANEL(DISCORD)](https://bot-hosting.net/?aff=1251693529084723300)**
 3. **Deploy on [KATBUMP PANEL(DISCORD)](https://dashboard.katabump.com/auth/login#1ae56c)**
-8. **You can visit Bot whatsapp channel [BY CLICKING HERE](https://whatsapp.com/channel/0029VaeRru3ADTOEKPCPom0L) for more**
-9. **All Tutorials [Here](https://www.youtube.com/@Professor_TECH)**
+8. **You can visit Bot whatsapp channel [BY CLICKING HERE](https://whatsapp.com/channel/0029VbAlmwn8V0tmhrtxSH0x) for more**
+9. **All Tutorials [Here](https://youtube.com/@coolshotsytems?si=PlWK5A4mVanes-Ga)**
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
@@ -43,8 +43,9 @@
  <br> 
 <p align="center">
 <a href="https://wa.me/2349066528353"><img src="https://img.shields.io/badge/Contact Professor-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="https://whatsapp.com/channel/0029VaeRru3ADTOEKPCPom0L"><img src="https://img.shields.io/badge/Join Official Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="https://www.youtube.com/@Professor_TECH"><img src="https://img.shields.io/badge/Subscribe-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://www.youtube.com/@Professor_TECH" /><br>
+<a href="https://whatsapp.com/channel/0029VbAlmwn8V0tmhrtxSH0x"><img src="https://img.shields.io/badge/Join Official Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://t.me/Prof_essor2025"><img src="https://img.shields.io/badge/Join Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+<a href="https://youtube.com/@coolshotsytems?si=PlWK5A4mVanes-Ga"><img src="https://img.shields.io/badge/Subscribe-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://youtube.com/@coolshotsytems?si=PlWK5A4mVanes-Ga" /><br>
 <p align="center">
 <img alt="Development" width="250" src="https://media2.giphy.com/media/W9tBvzTXkQopi/giphy.gif?cid=6c09b952xu6syi1fyqfyc04wcfk0qvqe8fd7sop136zxfjyn&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" /> </p>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
